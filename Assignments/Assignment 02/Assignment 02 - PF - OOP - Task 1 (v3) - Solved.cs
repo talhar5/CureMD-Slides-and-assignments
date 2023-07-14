@@ -186,7 +186,7 @@ class Program
         zoo.AddHabitat(pond);
 
         Lion lion = new Lion("Simba", 5, savannah);
-        Elephant elephant = new Elephant("Dumbo", 8, savannah);
+        Elephant elephant = new Elephant("Dumbo", 8,5 savannah);
         Monkey monkey = new Monkey("George", 3, jungle);
         Fish fish = new Fish("Nemo", 2, pond);
 

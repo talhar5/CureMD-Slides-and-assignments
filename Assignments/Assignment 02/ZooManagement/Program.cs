@@ -46,3 +46,25 @@
     }
 
 }
+//string Name;
+
+//public void get_name()
+//{
+//            protected set
+//{
+//    Name = Value;
+//}
+//        }
+
+//string name;
+//public string get_name
+//{
+//    protected set
+//    {
+//        name = value;
+//    }
+//    get
+//    {
+//        return name;
+//    }
+//}
