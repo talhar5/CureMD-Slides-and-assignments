@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/27917255/c-sharp-web-method-is-not-calling-in-javascript/27917333#27917333
+
+https://www.c-sharpcorner.com/article/ajax-in-asp-net/#:~:text=Client%20To%20Server%20(ASP.NET%20MVC)
